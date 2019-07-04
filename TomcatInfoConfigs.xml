@@ -1,0 +1,16 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="path" value="C:\Downloads" />
+      </TomcatInfo>
+    </option>
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="path" value="C:\Downloads" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>
