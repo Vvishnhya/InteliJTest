@@ -2,13 +2,13 @@
   <component name="TomcatInfoConfigs">
     <option name="current">
       <TomcatInfo>
-        <option name="path" value="C:\Downloads" />
+        <option name="path" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0" />
       </TomcatInfo>
     </option>
     <option name="tomcatInfos">
       <list>
         <TomcatInfo>
-          <option name="path" value="C:\Downloads" />
+          <option name="path" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0" />
         </TomcatInfo>
       </list>
     </option>
