@@ -1,9 +1,25 @@
 <application>
   <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 9.0.21" />
+        <option name="number" value="1" />
+        <option name="path" value="E:\Kursy\Java\Tomcat" />
+        <option name="version" value="9.0.21.0" />
+      </TomcatInfo>
+    </option>
     <option name="tomcatInfos">
       <list>
         <TomcatInfo>
-          <option name="path" value="C:\Program Files\Apache Software Foundation\Tomcat 9.0" />
+          <option name="name" value="Apache Tomcat 9.0.21" />
+          <option name="path" value="E:\Kursy\Java\Tomcat" />
+          <option name="version" value="9.0.21.0" />
+        </TomcatInfo>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.21" />
+          <option name="number" value="1" />
+          <option name="path" value="E:\Kursy\Java\Tomcat" />
+          <option name="version" value="9.0.21.0" />
         </TomcatInfo>
       </list>
     </option>
