@@ -1,12 +1,5 @@
 <application>
   <component name="TomcatInfoConfigs">
-    <option name="current">
-      <TomcatInfo>
-        <option name="name" value="Apache Tomcat 9.0.21" />
-        <option name="path" value="E:\Kursy\Java\Tomcat" />
-        <option name="version" value="9.0.21.0" />
-      </TomcatInfo>
-    </option>
     <option name="tomcatInfos">
       <list>
         <TomcatInfo>
